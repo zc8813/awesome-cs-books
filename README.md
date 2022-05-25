@@ -1,4 +1,4 @@
-<h1 align="center">awesome-cs-books: 超过 200 本经典的计算机书籍分享</h1>
+<h1 align="center">awesome-cs-books: 超过 200 本经典的计算机书籍分享, 解压密码4321</h1>
 
 **经典的编程书单大全简介:**
 
